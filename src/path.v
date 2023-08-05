@@ -1,4 +1,4 @@
-module path_both
+module bpath
 
 pub fn basename(p string) string {
 	if p.len < 2 {
