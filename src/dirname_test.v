@@ -1,4 +1,4 @@
-module path_both
+module bpath
 
 fn test_empty() {
 	out := dirname('')
