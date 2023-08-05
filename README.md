@@ -71,6 +71,7 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 Copyright (c) 2023 Ferdinand Prantl
 
 Licensed under the MIT license.
+
 [VPM]: https://vpm.vlang.io/packages/prantlf.path_both
 [path]: https://github.com/prantlf/v-path
 [path_posix]: https://github.com/prantlf/v-path-posix
