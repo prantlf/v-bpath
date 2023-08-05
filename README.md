@@ -74,7 +74,7 @@ Licensed under the MIT license.
 
 [VPM]: https://vpm.vlang.io/packages/prantlf.bpath
 [path]: https://github.com/prantlf/v-path
-[path_posix]: https://github.com/prantlf/v-path-posix
-[path_win32]: https://github.com/prantlf/v-path-win32
+[upath]: https://github.com/prantlf/v-upath
+[wpath]: https://github.com/prantlf/v-wpath
 [POSIX basename]: https://man7.org/linux/man-pages/man3/basename.3p.html
 [POSIX dirname]: https://man7.org/linux/man-pages/man3/dirname.3p.html
