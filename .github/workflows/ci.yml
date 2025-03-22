@@ -39,6 +39,6 @@ jobs:
     - name: Checkout Sources
       uses: actions/checkout@v4
     - name: Setup V
-      uses: prantlf/setup-v-action@v1
+      uses: prantlf/setup-v-action@v2
     - name: Test
       run: cmd /c make.bat
